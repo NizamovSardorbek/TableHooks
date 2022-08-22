@@ -153,7 +153,7 @@ const FuncTable = () => {
                             onClick={() => EditMovie(value)}
                             rang="yellow"
                           >
-                            Edit ✏️
+                            Edit item ✏️
                           </Button>
                         </TableBtnWrapper>
                       )}
